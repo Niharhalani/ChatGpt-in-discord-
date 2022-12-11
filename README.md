@@ -28,3 +28,6 @@ The essential takeaway from this hackathon experience is working on close deadli
 ## What's next for ChatGPT in discord
 We have decided on improvising this model of chatGPT in discord, by adding some notable features like private chat,
 that would provide user the privacy and comfort to ask questions in a more confidential manner.
+
+## Add it in your own server !
+`https://discord.com/oauth2/authorize?client_id=1049644312390021190&permissions=2048&scope=bot`
